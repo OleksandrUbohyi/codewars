@@ -1,6 +1,6 @@
 function shortcut (string) {
     let final = '';
-    const vowels = ['a', 'e', 'i', 'o', 'u'];
+    const vowels = ['a', 'e', 'i', 'o', 'u']
     console.log(final)    
 }
 
